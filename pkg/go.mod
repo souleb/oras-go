@@ -18,7 +18,8 @@ require (
 )
 
 require (
+	github.com/docker/distribution v2.7.1+incompatible
 	github.com/docker/docker-credential-helpers v0.6.4 // indirect
-	github.com/docker/go-connections v0.4.0 // indirect
+	github.com/docker/go-connections v0.4.0
 	github.com/morikuni/aec v1.0.0 // indirect
 )
